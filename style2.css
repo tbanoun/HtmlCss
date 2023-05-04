@@ -1,0 +1,32 @@
+html, body {
+    background: url(image2.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.cls-title {
+    color: white;
+}
+
+.cls-btn {
+    width: 250px !important;
+    border-radius: 25px !important;
+    transition: 1s !important;
+}
+
+.cls-btn:hover{
+    transform: scale(1.1);
+}
+
+hr {
+    border-width: 3px !important;
+    color: yellow !important;
+    max-width: 65px !important;
+    text-align: center !important;
+    margin: auto !important;
+}
+.cls-div{
+    margin-bottom: 60px;
+    height: 20px;
+}

@@ -1,0 +1,46 @@
+.container h1{
+    color: white;
+    text-align: center;
+    margin-top: 160px;
+    background: none;
+    text-shadow: 2px 2px 8px white;
+}
+.btn-open-mail{
+    text-align: center !important;
+    margin-top: 100px;
+}
+.btn-open-mail a{
+    width: 200px;
+    transition: 1s;
+}
+.btn-open-mail a:hover{
+    width: 200px;
+    background-color: green;
+    color: black;
+    transform: scale(1.1);
+}
+.btn-open-mail:hover .container h1{
+    color: black;
+    transform: scale(1.1);
+}
+.btn-form{
+    margin-top: 40px;
+    text-align: center;
+}
+.btn-form button{
+    width: 140px;
+}
+.cont-form{
+    margin-top: 60px;
+    width: 55% !important;
+    text-align: center;
+}
+.modal-footer{
+    text-align: center !important;
+}
+hr{
+    border-width: 3px !important;
+    border-color: yellow !important;
+    max-width: 65px;
+    margin-bottom: 30px !important;
+}
